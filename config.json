@@ -1,6 +1,6 @@
 {
-  "app_id": "TU_APP_ID_AQUI",
-  "client_secret": "TU_CLIENT_SECRET_AQUI",
+  "app_id": "1113073977848262",
+  "client_secret": "yBmPzJdBywx4LIWbIfu1IMfCj9SkBWte",
   "redirect_uri": "https://madart-delivery-bot.onrender.com/callback",
   "download_link": "https://drive.google.com/file/d/TU_ID_DE_GOOGLE_DRIVE/view?usp=sharing",
   "mensaje_template": "¡Hola {comprador}! 🍻 ¡Muchas gracias por tu compra en MADART STUDIO!\n\nYa podés descargar tu Pack Imprimible Oficial de LA PREVIA:\n🔗 {link}\n\nTu pack incluye los 4 archivos en alta resolución (300 DPI):\n📄 00_GUIA_DE_IMPRESION_Y_ARMADO.pdf (consejos de papel y corte)\n🎴 01_MAZO_COMPLETO_60_CARTAS_DOBLE_FAZ_A4.pdf (con guías de corte y tijeritas ✂)\n📐 02_ANOTADOR_OFICIAL_15_RONDAS_10_JUGADORES_A4.pdf (formato A4 apaisado)\n📜 03_MANUAL_Y_REGLAS_OFICIALES_A4.pdf (reglamento oficial completo)\n\nSi tenés cualquier duda para imprimirlo, respondenos por acá y te ayudamos al instante.\n¡Que disfruten la previa! — Equipo MADART STUDIO",
